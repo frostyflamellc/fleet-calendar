@@ -1,0 +1,9 @@
+# PUBLIC REPO. Only the files listed below may ever be committed here.
+# Rebuilt every run by the Fleet Schedule Publisher routine from its CAL_FILES table.
+*
+!.gitignore
+!README.md
+!telluride.ics
+!ev9.ics
+!model3.ics
+!modely.ics
